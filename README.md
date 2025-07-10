@@ -1,6 +1,6 @@
 # Kuri Uninstaller
 A simple utility to find and remove leftover files and registry entries from uninstalled programs on Windows. Built with Rust and the `iced` GUI toolkit.
-
+![SS](https://github.com/Mikasuru/Kuri-Uninstaller/blob/main/Assets/ss.png?raw=true)
 ---
 
 ## Features
